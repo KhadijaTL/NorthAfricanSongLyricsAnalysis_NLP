@@ -4,6 +4,10 @@
 
 This project focuses on web scraping lyrics from various websites, specifically targeting Moroccan, Algerian, and Tunisian songs. The collected data is then meticulously analyzed and classified based on dialect using advanced natural language processing techniques, including sentiment analysis.
 
+![Dialect Distribution](ScreenShots/Capture1.JPG)
+
+![Dialect Distribution](ScreenShots/Capture2.JPG)
+
 ## Dialect Statistics
 
 - **Moroccan (0):** 176 songs
